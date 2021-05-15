@@ -1,0 +1,19 @@
+{
+  "name": "yapi-tool-docs",
+  "version": "1.0.0",
+  "description": "yapi-tool使用教程",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "author": "LFE",
+  "license": "MIT",
+  "repository": "https://github.com/WangQiangrong/yapi-tool",
+  "keywords": [
+    "yapi-tool"
+  ],
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  }
+}

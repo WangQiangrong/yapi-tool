@@ -1,0 +1,24 @@
+{
+  "name": "yapi-tool",
+  "version": "0.0.1",
+  "description": "yapi接口生成工具",
+  "main": "src/index.js",
+  "bin": {
+    "yapi-tool": "bin/index.js"
+  },
+  "scripts": {
+    "docs-dev": "vuepress dev docs",
+    "docs-build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "vuepress": "^1.0.3"
+  }
+}

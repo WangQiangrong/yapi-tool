@@ -1,6 +1,6 @@
 {
   "name": "yapi-tool",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "yapi接口生成工具",
   "main": "src/index.js",
   "bin": {

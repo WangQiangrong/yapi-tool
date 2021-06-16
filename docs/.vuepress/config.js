@@ -8,7 +8,7 @@ module.exports = {
 				link: '/usage/start.html'
 			},
 			{
-				text: 'gitlab',
+				text: 'github',
 				link: 'https://github.com/WangQiangrong/yapi-tool'
 			}
 		],
